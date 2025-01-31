@@ -1,4 +1,4 @@
-## Interface: 11505
+## Interface: 11506
 ## Title: MuffinStuff
 ## Notes: A collection of game options that MuffinStomp uses
 ## Author: Curseforge: puddingstomp | Muffinstomp-WildgrowthUS
